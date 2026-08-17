@@ -331,7 +331,7 @@ The procurement team already has confirmed VAT numbers for about a third of thei
 
 ### Sources I wouldn't use in a paid product
 
-Two, for different reasons. First, the third-party "VAT lookup" aggregator sites I found showing up constantly in search results (vat-search.co.uk, vat-lookup.com, and similar).
+The third-party "VAT lookup" aggregator sites I found showing up constantly in search results (vat-search.co.uk, vat-lookup.com, and similar). I would not use them because I do not know where they retrieve their data from. Also I do not have a guarantee that if I pay, I will get valid data.
 
 
 
